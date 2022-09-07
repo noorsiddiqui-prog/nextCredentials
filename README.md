@@ -46,3 +46,4 @@ npx prisma migrate dev --preview-feature
 npx prisma generate
 ```
 # nextjsCredentials
+# nextjsCred
